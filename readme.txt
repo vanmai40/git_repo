@@ -12,3 +12,6 @@ Commit 4
 
 Commit 5
 	Hello This is never the last commit change.
+
+Commit 7
+	Hello This is never the last commit change.
