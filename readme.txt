@@ -9,3 +9,6 @@ Commit 3
 	
 Commit 4
 	Hello This is the new last commit change.
+
+Commit 5
+	Hello This is never the last commit change.
